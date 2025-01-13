@@ -1,0 +1,21 @@
+.lg {
+    width: 4%;
+}
+
+.card-img-top {
+    height: 167px;
+}
+
+#one {
+    height: 200px;
+}
+
+#two {
+    width: 100px;
+    margin: auto;
+}
+
+#tax {
+    list-style-type: none;
+}
+    
